@@ -1,0 +1,17 @@
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\bin\Debug\net8.0\Podcast.Infrastructure.deps.json
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\bin\Debug\net8.0\Podcast.Infrastructure.runtimeconfig.json
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\bin\Debug\net8.0\Podcast.Infrastructure.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\bin\Debug\net8.0\Podcast.Infrastructure.pdb
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\bin\Debug\net8.0\Podcast.Core.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\bin\Debug\net8.0\Podcast.Core.pdb
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast..0D9450D1.Up2Date
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\refint\Podcast.Infrastructure.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.pdb
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\Podcast.Infrastructure.genruntimeconfig.cache
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Infrastructure\obj\Debug\net8.0\ref\Podcast.Infrastructure.dll
