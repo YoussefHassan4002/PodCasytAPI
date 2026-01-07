@@ -1,0 +1,11 @@
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\bin\Debug\net8.0\Podcast.Core.deps.json
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\bin\Debug\net8.0\Podcast.Core.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\bin\Debug\net8.0\Podcast.Core.pdb
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\Podcast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\Podcast.Core.AssemblyInfoInputs.cache
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\Podcast.Core.AssemblyInfo.cs
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\Podcast.Core.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\Podcast.Core.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\refint\Podcast.Core.dll
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\Podcast.Core.pdb
+C:\Users\youss\OneDrive\Desktop\Podcast_Backend\Podcast.Core\obj\Debug\net8.0\ref\Podcast.Core.dll
